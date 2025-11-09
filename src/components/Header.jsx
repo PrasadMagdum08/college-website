@@ -5,7 +5,7 @@ function Header() {
         <div className="container">
           <div className="header-top-content">
             <div className="logo-section">
-              <img src="https://images.pexels.com/photos/267885/pexels-photo-267885.jpeg?auto=compress&cs=tinysrgb&w=80&h=80" alt="College Logo" className="logo" />
+              <img src="./dyp_logo.png" alt="College Logo" className="logo" />
               <div className="college-info">
                 <h1>Dr. D. Y. Patil College of Engineering & Technology</h1>
                 <p>Kasaba Bawada, Kolhapur - 416 006</p>

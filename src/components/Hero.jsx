@@ -6,7 +6,7 @@ function Hero() {
   const slides = [
     {
       image: '/image_3.png',
-      title: 'Welcome to COEK',
+      title: 'Welcome to DYPCET',
       description: 'Excellence in Engineering Education'
     },
     {

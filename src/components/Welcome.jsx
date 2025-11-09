@@ -5,10 +5,10 @@ function Welcome() {
         <div className="welcome-content">
           <div className="principal-image">
             <img src="./sanjay.png" alt="Principal" />
-            <h3>Principal's Message</h3>
+            <h3>Principals Message</h3>
           </div>
           <div className="welcome-text">
-            <h2>Welcome to COEK</h2>
+            <h2>Welcome to DYPCET</h2>
             <p>
               It gives me immense pleasure to welcome you to Dr. D. Y. Patil College of
               Engineering & Technology, Kolhapur. Our institution has been at the forefront
